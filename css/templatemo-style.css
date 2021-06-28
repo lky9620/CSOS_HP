@@ -80,7 +80,7 @@ https://templatemo.com/tm-516-known
   }
 
   a:hover, a:active, a:focus {
-    color: #29ca8e;
+    color: #2941ca;
     outline: none;
   }
 
@@ -258,7 +258,7 @@ https://templatemo.com/tm-516-known
 
   .custom-navbar {
     background: #ffffff;
-    border-top: 5px solid #3460d8;
+    border-top: 5px solid #296fca;
     border-bottom: 0;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -269,7 +269,7 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .navbar-brand {
-    color: #454545;
+    color: #2941ca;
     font-size: 18px;
     font-weight: bold;
     line-height: 40px;
@@ -285,7 +285,7 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .navbar-nav.navbar-right li a .fa {
-    background: #3460d8;
+    background: #2941ca;
     border-radius: 100%;
     color: #ffffff;
     width: 30px;
@@ -309,12 +309,12 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .nav li a:hover {
-    background-color: #3460d8;
+    background-color: #2941ca;
     color: #ffffff;
   }
 
   .custom-navbar .nav li.active > a {
-    background-color: #3460d8;
+    background-color: #2941ca;
     color: #ffffff;
   }
 
@@ -444,7 +444,7 @@ https://templatemo.com/tm-516-known
   }
 
   #about figure span i {
-    background: #29ca8e;
+    background: #2941ca;
     border-radius: 50px;
     color: #ffffff;
     font-size: 25px;
@@ -580,7 +580,7 @@ https://templatemo.com/tm-516-known
   }
 
   .courses-price span {
-    background: #29ca8e;
+    background: #2941ca;
     border-radius: 2px;
     color: #ffffff;
     display: block;
@@ -814,7 +814,7 @@ https://templatemo.com/tm-516-known
   }
 
   .newsletter-form input[type="submit"]:hover {
-    background: #29ca8e;
+    background: #2941ca;
     border-color: transparent;
   }
 
@@ -845,7 +845,7 @@ https://templatemo.com/tm-516-known
 
   .social-icon li a {
     border-radius: 100px;
-    color: #29ca8e;
+    color: #2941ca;
     font-size: 15px;
     width: 35px;
     height: 35px;
@@ -858,7 +858,7 @@ https://templatemo.com/tm-516-known
   }
 
   .social-icon li a:hover {
-    background: #29ca8e;
+    background: #2941ca;
     color: #ffffff;
   }
 
