@@ -1,0 +1,52 @@
+[2021-06-28 04:35:36.002] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-06-28 04:36:10.081] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-28 04:40:04.261] [sharedprocess] [info] Installing extension: techer.open-in-browser
+[2021-06-28 04:40:05.420] [sharedprocess] [info] Downloaded extension: techer.open-in-browser /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/techer.open-in-browser-2.0.0
+[2021-06-28 04:40:05.530] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.88dfe390-6511-43d8-a921-8fd941419643: techer.open-in-browser
+[2021-06-28 04:40:05.544] [sharedprocess] [info] Renamed to /root/.vscode/extensions/techer.open-in-browser-2.0.0
+[2021-06-28 04:40:05.546] [sharedprocess] [info] Installation completed. techer.open-in-browser
+[2021-06-28 04:40:05.554] [sharedprocess] [info] Extensions installed successfully: techer.open-in-browser
+[2021-06-28 04:43:29.991] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-06-28 04:43:30.602] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-06-28 04:43:33.487] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.e9f006d8-f458-4e3a-80b5-f1bde46e2345: ritwickdey.liveserver
+[2021-06-28 04:43:33.495] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2021-06-28 04:43:33.496] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2021-06-28 04:43:33.506] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2021-06-28 04:47:54.160] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-06-28 04:47:56.910] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/ritwickdey.liveserver-2.1.1
+[2021-06-28 04:47:59.097] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.aaf089f7-5ab5-4ddc-84e3-0fe6f07ec358: ritwickdey.liveserver
+[2021-06-28 04:47:59.106] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ritwickdey.liveserver-2.1.1
+[2021-06-28 04:47:59.110] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2021-06-28 04:47:59.129] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2021-06-28 04:48:25.069] [sharedprocess] [info] Installing extension: techer.open-in-browser
+[2021-06-28 04:48:25.293] [sharedprocess] [info] Downloaded extension: techer.open-in-browser /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/techer.open-in-browser-1.1.0
+[2021-06-28 04:48:25.349] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.2a27b89b-5480-4614-9b1f-12065d8b09dc: techer.open-in-browser
+[2021-06-28 04:48:25.359] [sharedprocess] [info] Renamed to /root/.vscode/extensions/techer.open-in-browser-1.1.0
+[2021-06-28 04:48:25.364] [sharedprocess] [info] Installation completed. techer.open-in-browser
+[2021-06-28 04:48:25.377] [sharedprocess] [info] Extensions installed successfully: techer.open-in-browser
+[2021-06-28 04:58:26.279] [sharedprocess] [info] Installing extension: techer.open-in-browser
+[2021-06-28 04:58:26.295] [sharedprocess] [info] Downloaded extension: techer.open-in-browser /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/techer.open-in-browser-2.0.0
+[2021-06-28 04:58:26.310] [sharedprocess] [info] Removed the extension from uninstalled list: techer.open-in-browser
+[2021-06-28 04:58:26.327] [sharedprocess] [info] Extensions installed successfully: techer.open-in-browser
+[2021-06-28 04:58:51.441] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2021-06-28 04:58:51.444] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/ritwickdey.liveserver-5.6.1
+[2021-06-28 04:58:51.469] [sharedprocess] [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+[2021-06-28 04:58:51.487] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2021-06-28 04:59:47.479] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2021-06-28 04:59:47.800] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/ecmel.vscode-html-css-1.10.2
+[2021-06-28 04:59:47.819] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.19de9e64-7a69-4619-8f1e-4384bef29c5a: ecmel.vscode-html-css
+[2021-06-28 04:59:47.822] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ecmel.vscode-html-css-1.10.2
+[2021-06-28 04:59:47.823] [sharedprocess] [info] Installation completed. ecmel.vscode-html-css
+[2021-06-28 04:59:47.833] [sharedprocess] [info] Extensions installed successfully: ecmel.vscode-html-css
+[2021-06-28 04:59:49.431] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2021-06-28 04:59:49.711] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/abusaidm.html-snippets-0.2.1
+[2021-06-28 04:59:49.732] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.5a47caf6-660d-4cfa-93b1-7b31b1c125c8: abusaidm.html-snippets
+[2021-06-28 04:59:49.735] [sharedprocess] [info] Renamed to /root/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2021-06-28 04:59:49.737] [sharedprocess] [info] Installation completed. abusaidm.html-snippets
+[2021-06-28 04:59:49.747] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2021-06-28 05:04:15.195] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-ko
+[2021-06-28 05:04:15.542] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ko /home/user/CSOS_HP/Workspace/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ko-1.57.1
+[2021-06-28 05:04:15.738] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.816ff95f-d416-4a4b-a825-3b020687ecdf: ms-ceintl.vscode-language-pack-ko
+[2021-06-28 05:04:15.741] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-ceintl.vscode-language-pack-ko-1.57.1
+[2021-06-28 05:04:15.742] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-ko
+[2021-06-28 05:04:15.756] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-ko
