@@ -460,7 +460,7 @@ https://templatemo.com/tm-516-known
   }
 
   #about h4{
-    margin-left : 50px;
+    margin-left : 22%;/*수정됨*/
     position: relative;
     font-size: 36px;
     color: #111;
@@ -471,7 +471,8 @@ https://templatemo.com/tm-516-known
   
   }
   #about table{
-    margin-left: 50px;
+    margin-left: 25%;/*수정됨*/
+    position: relative;
   }
 
   .about-info h2 span {
@@ -504,6 +505,11 @@ https://templatemo.com/tm-516-known
   /*---------------------------------------
       TEAM              
   -----------------------------------------*/
+  
+  /*수정됨*/
+  #team div div .team-thumb{
+    left: 50%;
+  }
 
   .team-thumb {
     background: #ffffff;
@@ -518,6 +524,7 @@ https://templatemo.com/tm-516-known
 
   .team-image img {
     width: 100%;
+    height: 350px;/*수정됨*/
   }
 
   .team-thumb .social-icon {
