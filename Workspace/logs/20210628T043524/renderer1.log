@@ -1,0 +1,31 @@
+[2021-06-28 04:36:16.145] [renderer1] [warning] Webgl could not be loaded. Falling back to the canvas renderer type. {}
+[2021-06-28 04:36:16.152] [renderer1] [warning] Webgl could not be loaded. Falling back to the canvas renderer type. {}
+[2021-06-28 04:49:09.331] [renderer1] [error] Cannot read property 'children' of undefined: TypeError: Cannot read property 'children' of undefined
+    at r.get children [as children] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1993:6208)
+    at Object.l [as createTOCIterator] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1993:7603)
+    at Jt.refreshTOCTree (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2416:57208)
+    at Jt.triggerSearch (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2416:59072)
+    at Jt.onSearchInputChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2416:57644)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2416:44291
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:14541
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:580:14168
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at q.endDeferredEmit (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:589:30851)
+    at z.pushEditOperations (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:587:936)
+    at S.executeEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:617:479)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:618:3256
+    at i._withViewEventsCollector (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:618:5334)
+    at i._executeCursorEdit (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:618:3168)
+    at i.executeEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:618:3221)
+    at dn.executeEdits (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:654:10688)
+    at v.setValue (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:15394)
+    at Jt._setOptions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2416:40660)
+    at Jt.setInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2416:39937)
+    at async u.doSetInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2470:132720)
+    at async u.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2470:131131)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2680:16248
+    at async De.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2868:25047)
+    at async k.runAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:171:30929)
+    at async k.run (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:171:30829)
+    at async l.runAction (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1518:34787)
