@@ -387,7 +387,7 @@ https://templatemo.com/tm-516-known
   }
 
   .home-slider .item-second {
-    background-image: url(../images/slider-image2.jpg);
+    background-image: url(../images/cybersecurity.jpg);
   }
 
   .home-slider .item-third {
@@ -454,13 +454,13 @@ https://templatemo.com/tm-516-known
     text-align: center;
   }
   
-  /*수정됨*/
+
   #about figure figcaption{
     width: 600px;
   }
 
   #about h4{
-    margin-left : 22%;/*수정됨*/
+    margin-left : 22%;
     position: relative;
     font-size: 36px;
     color: #111;
@@ -471,7 +471,7 @@ https://templatemo.com/tm-516-known
   
   }
   #about table{
-    margin-left: 25%;/*수정됨*/
+    margin-left: 25%;
     position: relative;
   }
 
@@ -1045,4 +1045,77 @@ https://templatemo.com/tm-516-known
       height: inherit;
     }
   }
-  
+    /*---------------------------------------
+     NEWS            
+  -----------------------------------------*/
+
+    .table-hover{
+      margin-bottom: 10%;
+    }
+    .table-hover p{
+      margin-top: 3%;
+      /* margin-left: 5%; */
+      font-size: 14px;
+      color: #000000;
+      text-align : left;
+    }
+    .table-hover img{
+      margin-top: 3%;
+      /* margin-left: 5%; */
+    }
+
+    .table-hover th{
+      color: #454545;
+      font-size: 16px;
+      text-align: center;
+      font-weight :bolder;
+      line-height: 24px;
+    }
+    .table-hover td{
+      margin-top: 14px;
+      margin-bottom : 14px;
+      color: #757575;
+      font-size: 15px;
+      line-height: 24px;
+      font-weight: normal;
+      text-align: center;
+    }
+    .custom-news{
+      margin-bottom:5%;
+    }
+    .custom-news summary{
+      /* margin-left: 3%; */
+      margin-bottom: 2%;
+      color: #454545;
+      font-size: 25px;
+    }
+    .custom-news ul{
+      margin:0;
+      padding:0;
+    }
+    .custom-news li::marker{
+      color:#000000;
+    }
+    .custom-news li{
+      margin-left:1%;
+      margin-bottom:1%;
+      /* padding: 0; */
+      color: #757575;
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 24px;
+    }
+    .custom-news a{
+      font-size:14px;
+      color: red;
+    }
+    .custom-news strong{
+      font-size: 15px;
+      color: #000000;
+
+    }
+    .custom-news hr{
+      height: 2px;
+      border: 0 none;
+      background-color: #757575;;
+    }
