@@ -267,12 +267,18 @@ https://templatemo.com/tm-516-known
     margin-bottom: 0;
     padding: 0;
   }
-
+  .dropdown-menu{
+    width: 180px;
+    text-align: center; 
+  }
   .custom-navbar .navbar-brand {
     color: #2941ca;
     font-size: 18px;
     font-weight: bold;
     line-height: 40px;
+  }
+  .navbar-brand img{
+    height :40px;
   }
 
   .custom-navbar .navbar-nav.navbar-nav-first {
@@ -1094,6 +1100,14 @@ https://templatemo.com/tm-516-known
       font-weight: normal;
       text-align: center;
     }
+    .table-hover summary{
+      cursor:pointer;
+    }
+    .table-hover img{
+      height: 350px;
+      object-fit: scale-down;
+      align:center;
+    }
     .custom-news{
       margin-bottom:5%;
     }
@@ -1102,6 +1116,7 @@ https://templatemo.com/tm-516-known
       margin-bottom: 2%;
       color: #454545;
       font-size: 25px;
+      
     }
     .custom-news ul{
       margin:0;
@@ -1180,4 +1195,37 @@ https://templatemo.com/tm-516-known
       .custom-professor p{
         font-size:16px;
         color: #454545;
+      }
+/*---------------------------------------
+  Research           
+-----------------------------------------*/
+      .custom-ongoing{
+        margin-bottom:3%;
+      }
+      .custom-ongoing img{
+        margin-bottom: 3%;
+        height :400px;
+        object-fit: scale-down;
+      }
+      .custom-ongoing hr{
+        margin-top:3%;
+        margin-bottom:3%;
+      }
+      .custom-ongoing h3{
+        margin-top:0%;
+        margin-bottom:2%;
+        font-size:22px;
+      }
+      .custom-ongoing summary{
+        font-size:15px;
+        cursor:pointer;
+      }
+      .custom-ongoing li{
+        font-size:16px;
+        margin-bottom:1.5%;
+        color: #454545;
+      }
+      .custom-ongoing strong{
+        font-size:17px;
+        color: #000000;
       }
