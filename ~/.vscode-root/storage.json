@@ -100,7 +100,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1493,8 +1494,8 @@
             "backupPath": "/home/user/CSOS_HP/CSOS_HP/~/.vscode-root/Backups/b2d80aa1fa2c4852e9b89d345265965f",
             "uiState": {
                 "mode": 1,
-                "x": 594,
-                "y": 106,
+                "x": 1121,
+                "y": 213,
                 "width": 655,
                 "height": 348
             }
