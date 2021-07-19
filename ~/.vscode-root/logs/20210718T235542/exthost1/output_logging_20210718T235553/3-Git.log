@@ -1,0 +1,159 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --git-dir
+Open repository: /home/user/CSOS_HP/CSOS_HP
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --local branch.master.github-pr-owner-number
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :Publication/dom_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/dom_journal.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Publication/inter_journal (사본).html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/inter_journal (사본).html
+> git cat-file -s 010757edd07cc4fd69d2a19f33fc99988d5bd264
+> git show --textconv :Publication/dom_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/dom_journal.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Publication/inter_journal (사본).html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/inter_journal (사본).html
+> git cat-file -s 010757edd07cc4fd69d2a19f33fc99988d5bd264
+> git show --textconv :Publication/inter_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/inter_journal.html
+> git cat-file -s 6bf2005243df1e56e4fdac0df3cb3bc25e1a8b1d
+> git show --textconv :Publication/dom_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/dom_journal.html
+> git check-ignore -v -z --stdin
+> git show --textconv :Publication/inter_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/inter_journal.html
+> git cat-file -s 6bf2005243df1e56e4fdac0df3cb3bc25e1a8b1d
+> git show --textconv :Publication/dom_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/dom_journal.html
+> git show --textconv :Publication/inter_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/inter_journal.html
+> git cat-file -s 6bf2005243df1e56e4fdac0df3cb3bc25e1a8b1d
+> git show --textconv :Publication/dom_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/dom_journal.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :Publication/inter_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/inter_journal.html
+> git cat-file -s 6bf2005243df1e56e4fdac0df3cb3bc25e1a8b1d
+> git show --textconv :Publication/dom_journal.html
+> git ls-files --stage -- /home/user/CSOS_HP/CSOS_HP/Publication/dom_journal.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/user/CSOS_HP/CSOS_HP/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template

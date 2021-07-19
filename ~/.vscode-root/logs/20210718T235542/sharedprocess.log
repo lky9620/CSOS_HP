@@ -1,0 +1,7 @@
+[2021-07-18 23:55:46.567] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-07-18 23:55:47.823] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/user/CSOS_HP/CSOS_HP/~/.vscode-root/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.7.4
+[2021-07-18 23:55:51.651] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.838b2a3f-fce1-4d61-acd9-859d4ca51593: ms-python.vscode-pylance
+[2021-07-18 23:55:51.668] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2021.7.4
+[2021-07-18 23:55:51.670] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-07-18 23:55:51.755] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-07-18 23:56:23.969] [sharedprocess] [info] Starting to clean up unused language packs.
