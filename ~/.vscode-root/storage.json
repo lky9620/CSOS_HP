@@ -100,7 +100,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1492,11 +1493,11 @@
             "folder": "file:///home/user/CSOS_HP/CSOS_HP",
             "backupPath": "/home/user/CSOS_HP/CSOS_HP/~/.vscode-root/Backups/b2d80aa1fa2c4852e9b89d345265965f",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 1095,
-                "y": 273,
+                "y": 245,
                 "width": 655,
-                "height": 348
+                "height": 376
             }
         },
         "openedWindows": []
