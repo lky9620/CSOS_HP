@@ -530,7 +530,9 @@ https://templatemo.com/tm-516-known
 
   .team-image img {
     width: 100%;
-    height: 350px;/*수정됨*/
+    height: 350px;
+    /* display: block; */
+    object-fit: cover;
   }
 
   .team-thumb .social-icon {
@@ -543,7 +545,17 @@ https://templatemo.com/tm-516-known
     color: #252020;
   }
 
+  .team-info p{
+    color: #454545;
+    margin-bottom: 1%
+  }
+
   .team-info h3 {
+    margin: 0;
+    margin-bottom: 1%;
+  }
+  .team-info h4 {
+    font-size: 19px;
     margin: 0;
   }
 
@@ -1245,6 +1257,8 @@ https://templatemo.com/tm-516-known
       }
       .custom-pulbication td{
         vertical-align: middle !important;
+        font-size:16px;
+        margin-left:300px;
       }
       .custom-pulbication .title{
         margin-top : 1%;
@@ -1267,6 +1281,16 @@ https://templatemo.com/tm-516-known
         text-align: left !important;
         font-size:12px;
         color: #454545;
+      }
+      .custom-pulbication .wherec{
+        margin-top : 1%;
+        margin-bottom : 1%;
+        text-align: left !important;
+        font-size:12px;
+        color: #454545;
+      }
+      .custom-pulbication .wherec strong{
+        color: black;
       }
       .custom-pulbication .fa{
         color: #454545; 

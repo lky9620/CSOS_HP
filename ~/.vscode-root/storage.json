@@ -1494,8 +1494,13 @@
             "backupPath": "/home/user/CSOS_HP/CSOS_HP/~/.vscode-root/Backups/b2d80aa1fa2c4852e9b89d345265965f",
             "uiState": {
                 "mode": 1,
+<<<<<<< HEAD
                 "x": 1121,
                 "y": 213,
+=======
+                "x": 933,
+                "y": 167,
+>>>>>>> 62fce4f61ff7fe407dc80393914b01e10ebdec69
                 "width": 655,
                 "height": 348
             }
