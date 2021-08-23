@@ -32,9 +32,9 @@ https://templatemo.com/tm-516-known
     line-height: normal;
   }
 
-  h2 {
-    color: #353535;
+  h2 {    color: #353535;
     font-size: 2em;
+    padding-bottom: 10px;
     padding-bottom: 10px;
   }
 
@@ -411,7 +411,7 @@ https://templatemo.com/tm-516-known
     padding: 5em 3em;
   }
 
-  .feature-thumb span {
+  .feature-thumb .box{
     background: #3f51b5;
     border-radius: 50px;
     color: #ffffff;
@@ -422,7 +422,25 @@ https://templatemo.com/tm-516-known
     height: 60px;
     line-height: 60px;
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+  }
+
+  .feature-thumb .title{
+    color: #353535;
+    font-size: 25px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    /* background: #3f51b5;
+    border-radius: 50px;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    margin-bottom: 5px; */
   }
 
   .feature-thumb h3 {
