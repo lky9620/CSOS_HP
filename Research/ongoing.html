@@ -43,7 +43,7 @@ https://templatemo.com/tm-516-known
           <div class="container">
 
                <div class="navbar-header">
-                    <button class="navbar-toggle" data-toggle="dropdown" >
+                    <button  class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"  >
                          <span class="icon icon-bar"></span>
                          <span class="icon icon-bar"></span>
                          <span class="icon icon-bar"></span>
@@ -100,8 +100,14 @@ https://templatemo.com/tm-516-known
                                    <a class = "dropdown-item" href = "../Members/Alumni.html">Alumni</a>
                               </div>
                          </li>
-                         <li><a href="#" class="smoothScroll">Course</a></li>
-                         <li><a href="#" class="smoothScroll">Gallery</a></li>
+                         <li class = "nav-item dropdown">
+                              <a href="#" class="smoothScroll" data-toggle="dropdown">Course</a>
+                              <div class = "dropdown-menu">
+                                   <a class = "dropdown-item" href = "../Course/ongoingcourses.html">On-going</a>
+                                   <a class = "dropdown-item" href = "../Course/PastCourses.html">Past Course</a>
+                              </div>
+                         </li>
+                         <li><a href="../Gallery/Gallery.html" class="smoothScroll">Gallery</a></li>
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
@@ -121,7 +127,7 @@ https://templatemo.com/tm-516-known
      <div class = "container custom-ongoing">
           <h3>안드로이드 Att&ck matrices의 테크닉 탐지 방법 연구</h3>
           <center>
-               <img src = "ongoing/국보연과제.png">
+               <img src = "ongoing/국보연과제.png" class="img-responsive img-rounded" >
           </center>
           <ul class = "disc">
                <li><strong>연구과제</strong> 안드로이드 Att&ck matrices의 테크닉 탐지 방법 연구</li>
@@ -133,7 +139,7 @@ https://templatemo.com/tm-516-known
           <hr>
           <h3>모바일 플랫폼 기반 차량 포렌식을 위한 효과적/지능적 프레임워크</h3>
           <center>
-               <img src = "ongoing/NRF.PNG">
+               <img src = "ongoing/NRF.PNG" class="img-responsive img-rounded">
           </center>
           <ul class = "disc">
                <li><strong>연구과제</strong> 모바일 플랫폼 기반 차량 포렌식을 위한 효과적/지능적 프레임워크</li>
@@ -146,7 +152,7 @@ https://templatemo.com/tm-516-known
           <hr>
           <h3>Vehicle AVN 동기화 데이터 수집 및 EDR 분석기법 연구</h3>
           <center>
-               <img src = "ongoing/대검찰청.PNG">
+               <img src = "ongoing/대검찰청.PNG" class="img-responsive img-rounded">
           </center>
           <ul class = "disc">
                <li><strong>연구과제</strong> Vehicle AVN 동기화 데이터 수집 및 EDR 분석기법 연구</li>

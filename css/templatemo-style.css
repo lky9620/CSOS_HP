@@ -268,8 +268,11 @@ https://templatemo.com/tm-516-known
     padding: 0;
   }
   .dropdown-menu{
-    width: 180px;
+    width: 170px;
     text-align: center; 
+  }
+  .dropdown-item{
+    position: static;
   }
   .custom-navbar .navbar-brand {
     color: #2941ca;
@@ -397,7 +400,7 @@ https://templatemo.com/tm-516-known
   }
 
   .home-slider .item-third {
-    background-image: url(../images/slider-image3.jpg);
+    background-image: url(../images/index_3.png);
   }
 
 
@@ -1321,4 +1324,23 @@ https://templatemo.com/tm-516-known
       }
       .custom-pulbication strong{
         color: red;
+      }
+
+      /*---------------------------------------
+      Publication
+      -----------------------------------------*/
+
+      .conf-visit img{
+        margin-bottom: 0%;
+        object-fit: scale-down;
+      }
+      .conf-visit hr{
+        margin-top: 3%;
+        margin-bottom: 3%;
+      }
+      .conf-visit p{
+        margin-top: 0%;
+        margin-bottom: 3%;
+        color: #454545; 
+        font-size: 16px;
       }
